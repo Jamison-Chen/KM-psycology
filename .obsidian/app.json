@@ -1,0 +1,23 @@
+{
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "promptDelete": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "img",
+  "readableLineLength": true,
+  "userIgnoreFilters": [],
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "useTab": false,
+  "spellcheck": true,
+  "showIndentGuide": false,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
